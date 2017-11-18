@@ -2605,6 +2605,7 @@ declare namespace React {
         href?: string;
         hrefLang?: string;
         media?: string;
+        name?: string;
         rel?: string;
         target?: string;
         type?: string;
